@@ -1,0 +1,91 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.jaspersoft.studio.bundles.poi
+Export-Package: com.microsoft.schemas.office.x2006.encryption,com.micr
+ osoft.schemas.office.x2006.encryption.impl,com.microsoft.schemas.offi
+ ce.x2006.keyEncryptor.certificate,com.microsoft.schemas.office.x2006.
+ keyEncryptor.certificate.impl,com.microsoft.schemas.office.x2006.keyE
+ ncryptor.password,com.microsoft.schemas.office.x2006.keyEncryptor.pas
+ sword.impl,org.apache.poi,org.apache.poi.common.usermodel,org.apache.
+ poi.ddf,org.apache.poi.dev,org.apache.poi.extractor,org.apache.poi.hp
+ sf,org.apache.poi.hpsf.extractor,org.apache.poi.hpsf.wellknown,org.ap
+ ache.poi.hssf,org.apache.poi.hssf.dev,org.apache.poi.hssf.eventmodel,
+ org.apache.poi.hssf.eventusermodel,org.apache.poi.hssf.eventusermodel
+ .dummyrecord,org.apache.poi.hssf.extractor,org.apache.poi.hssf.model,
+ org.apache.poi.hssf.record,org.apache.poi.hssf.record.aggregates,org.
+ apache.poi.hssf.record.cf,org.apache.poi.hssf.record.chart,org.apache
+ .poi.hssf.record.common,org.apache.poi.hssf.record.cont,org.apache.po
+ i.hssf.record.crypto,org.apache.poi.hssf.record.pivottable,org.apache
+ .poi.hssf.usermodel,org.apache.poi.hssf.util,org.apache.poi.openxml4j
+ .exceptions,org.apache.poi.openxml4j.opc,org.apache.poi.openxml4j.opc
+ .internal,org.apache.poi.openxml4j.opc.internal.marshallers,org.apach
+ e.poi.openxml4j.opc.internal.signature,org.apache.poi.openxml4j.opc.i
+ nternal.unmarshallers,org.apache.poi.openxml4j.opc.signature,org.apac
+ he.poi.openxml4j.util,org.apache.poi.poifs.common,org.apache.poi.poif
+ s.crypt,org.apache.poi.poifs.crypt.agile,org.apache.poi.poifs.crypt.s
+ tandard,org.apache.poi.poifs.dev,org.apache.poi.poifs.eventfilesystem
+ ,org.apache.poi.poifs.filesystem,org.apache.poi.poifs.nio,org.apache.
+ poi.poifs.property,org.apache.poi.poifs.storage,org.apache.poi.ss,org
+ .apache.poi.ss.extractor,org.apache.poi.ss.format,org.apache.poi.ss.f
+ ormula,org.apache.poi.ss.formula.atp,org.apache.poi.ss.formula.consta
+ nt,org.apache.poi.ss.formula.eval,org.apache.poi.ss.formula.eval.fork
+ ed,org.apache.poi.ss.formula.function,org.apache.poi.ss.formula.funct
+ ions,org.apache.poi.ss.formula.ptg,org.apache.poi.ss.formula.udf,org.
+ apache.poi.ss.usermodel,org.apache.poi.ss.usermodel.charts,org.apache
+ .poi.ss.util,org.apache.poi.ss.util.cellwalk,org.apache.poi.util,org.
+ apache.poi.xslf,org.apache.poi.xslf.extractor,org.apache.poi.xslf.mod
+ el,org.apache.poi.xslf.model.geom,org.apache.poi.xslf.usermodel,org.a
+ pache.poi.xslf.util,org.apache.poi.xssf.dev,org.apache.poi.xssf.event
+ usermodel,org.apache.poi.xssf.extractor,org.apache.poi.xssf.model,org
+ .apache.poi.xssf.streaming,org.apache.poi.xssf.usermodel,org.apache.p
+ oi.xssf.usermodel.charts,org.apache.poi.xssf.usermodel.extensions,org
+ .apache.poi.xssf.usermodel.helpers,org.apache.poi.xssf.util,org.apach
+ e.poi.xwpf.extractor,org.apache.poi.xwpf.model,org.apache.poi.xwpf.us
+ ermodel,org.openxmlformats.schemas.drawingml.x2006.chart,org.openxmlf
+ ormats.schemas.drawingml.x2006.chart.impl,org.openxmlformats.schemas.
+ drawingml.x2006.main,org.openxmlformats.schemas.drawingml.x2006.main.
+ impl,org.openxmlformats.schemas.drawingml.x2006.picture,org.openxmlfo
+ rmats.schemas.drawingml.x2006.picture.impl,org.openxmlformats.schemas
+ .drawingml.x2006.spreadsheetDrawing,org.openxmlformats.schemas.drawin
+ gml.x2006.spreadsheetDrawing.impl,org.openxmlformats.schemas.drawingm
+ l.x2006.wordprocessingDrawing,org.openxmlformats.schemas.drawingml.x2
+ 006.wordprocessingDrawing.impl,org.openxmlformats.schemas.officeDocum
+ ent.x2006.customProperties,org.openxmlformats.schemas.officeDocument.
+ x2006.customProperties.impl,org.openxmlformats.schemas.officeDocument
+ .x2006.docPropsVTypes,org.openxmlformats.schemas.officeDocument.x2006
+ .docPropsVTypes.impl,org.openxmlformats.schemas.officeDocument.x2006.
+ extendedProperties,org.openxmlformats.schemas.officeDocument.x2006.ex
+ tendedProperties.impl,org.openxmlformats.schemas.officeDocument.x2006
+ .relationships,org.openxmlformats.schemas.officeDocument.x2006.relati
+ onships.impl,org.openxmlformats.schemas.presentationml.x2006.main,org
+ .openxmlformats.schemas.presentationml.x2006.main.impl,org.openxmlfor
+ mats.schemas.spreadsheetml.x2006.main,org.openxmlformats.schemas.spre
+ adsheetml.x2006.main.impl,org.openxmlformats.schemas.wordprocessingml
+ .x2006.main,org.openxmlformats.schemas.wordprocessingml.x2006.main.im
+ pl,schemaorg_apache_xmlbeans.system.sE130CAA0A01A7CDE5A2B4FEB8B311707
+ ,schemaorg_apache_xmlbeans.system.sE5DEF300EF120945DCDBF7C4471C059C,s
+ chemasMicrosoftComOfficeExcel,schemasMicrosoftComOfficeExcel.impl,sch
+ emasMicrosoftComOfficeOffice,schemasMicrosoftComOfficeOffice.impl,sch
+ emasMicrosoftComVml,schemasMicrosoftComVml.impl
+Bundle-Name: Apache POI
+Bundle-Version: 3.10.1.201502161145
+Bundle-ClassPath: poi-3.10.1.jar,poi-ooxml-3.10.1.jar,poi-ooxml-schema
+ s-3.10.1.jar
+Require-Bundle: org.junit;bundle-version="4.10.0",org.apache.commons.c
+ odec;bundle-version="1.6.0",org.apache.commons.logging;bundle-version
+ ="1.1.1",org.apache.servicemix.bundles.xmlbeans;bundle-version="2.5.0
+ ",org.dom4j;bundle-version="1.6.1"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6,JavaSE-1.7
+Import-Package: javax.xml.transform.stream,javax.xml.transform,javax.c
+ rypto.spec,org.apache.xmlbeans.xml.stream; version="2.5.0",javax.xml.
+ stream.events,javax.xml.parsers,junit.textui; version="3.8.2",org.apa
+ che.xmlbeans.impl.xb.xmlschema; version="2.5.0",org.apache.xmlbeans.i
+ mpl.common; version="2.5.0",org.xml.sax,org.apache.commons.codec.dige
+ st; version="1.6.0",javax.xml.transform.dom,org.xml.sax.helpers,junit
+ .framework; version="3.8.2",javax.xml.namespace,javax.imageio.stream,
+ javax.xml.validation,javax.xml.stream,org.apache.xmlbeans.impl.values
+ ; version="2.5.0",org.apache.xmlbeans; version="2.5.0",org.apache.com
+ mons.logging; version="1.1.1",javax.swing,javax.imageio.metadata,java
+ x.xml.xpath,org.dom4j.io,javax.crypto,org.w3c.dom,org.dom4j,javax.ima
+ geio,org.junit; version="4.10.0"
+
